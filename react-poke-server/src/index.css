@@ -1,0 +1,23 @@
+.container{
+    height: 300px;
+    width: 300px;
+    border: solid;
+    text-align: center;
+    display: flex;
+    
+}
+
+.body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+#generate{
+    margin: 25px;
+    padding: 10px;
+    border: solid;
+    border-radius: 20px;
+    background-color: yellow;
+}
